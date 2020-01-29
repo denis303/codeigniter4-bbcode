@@ -1,6 +1,6 @@
 <?php
 
-namespace Denis303\CodeIgniter\BBCode;
+namespace Denis303\CodeIgniter\BBCode\Config;
 
 use Denis303\CodeIgniter\BBCode\Libraries\BBCodeService;
 

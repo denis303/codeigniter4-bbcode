@@ -1,0 +1,20 @@
+{
+    "name": "denis303/codeigniter4-bbcode",
+    "description": "A CodeIgniter 4 service that parses BBCode and converts it to HTML code.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "denis303",
+            "email": "dev@denis303.com"
+        }
+    ],
+    "require": {
+        "chriskonnertz/bbcode": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Denis303\\CodeIgniter\\BBCode\\" : ""
+        }
+    }
+}

@@ -1,1 +1,1 @@
-# codeigniter4-bbcode
+# A CodeIgniter 4 service that parses BBCode and converts it to HTML code.
